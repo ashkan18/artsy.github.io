@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JWT Artsy Journey"
+title: "JWT, Artsy Journey"
 date: 2016-10-26 11:03
 comments: true
 author: ashkan
